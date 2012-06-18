@@ -11,7 +11,7 @@ In discussions on the findings of a piece of research, a
 handful of contrarian anecdotes always pop up. A commenter notes
 how their personal experience contradicts the findings,
 bringing a bit of real life into the discussion. You, the reader,
-(being thoughtful and open-minding) add these anecdotes to your
+(being thoughtful and open-minded) add these anecdotes to your
 compilation of thoughts on the subject. You probably feel, at
 least subconsciously, like you have a more balanced, insightful view
 of the topic.  Unfortunately, your view is not at all balanced,
@@ -52,6 +52,8 @@ make them yourself, knowing the exaggerated impact they can have.
 If you want to advance sound knowledge within the community, it
 might feel mean, but do your duty, and downvote those anecdotes.
 
+**EDIT**: There's also a good discussion on [Hacker News] [5]
+
 [1]: http://crx.sagepub.com/content/23/2/210.short "Value-Affirmative and Value-Protective Processing of Alcohol Education Messages That Include Statistical Evidence or Anecdotes"
 
 [2]: http://crx.sagepub.com/content/37/6/825.abstract "What Do Others’ Reactions to News on Internet Portal Sites Tell Us?  Effects of Presentation Format and Readers’ Need for Cognition on Reality Perception"
@@ -59,3 +61,5 @@ might feel mean, but do your duty, and downvote those anecdotes.
 [3]: http://news.ycombinator.com/item?id=4076643
 
 [4]: http://news.ycombinator.com/item?id=4076066
+
+[5]: http://news.ycombinator.com/item?id=4125198
