@@ -4,7 +4,7 @@ title: "You Should Downvote Contrarian Anecdotes"
 date: 2012-06-17 17:12
 comments: true
 categories: 
-published: false
+published: true
 ---
 
 In discussions on the findings of a piece of research, a
