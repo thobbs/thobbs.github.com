@@ -4,7 +4,7 @@
   <title><![CDATA[thobbs]]></title>
   <link href="http://thobbs.github.com/atom.xml" rel="self"/>
   <link href="http://thobbs.github.com/"/>
-  <updated>2012-06-18T10:25:24-05:00</updated>
+  <updated>2014-09-09T08:52:58-05:00</updated>
   <id>http://thobbs.github.com/</id>
   <author>
     <name><![CDATA[Tyler Hobbs]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Algorithmic Artwork]]></title>
+    <link href="http://thobbs.github.com/blog/2014/09/09/algorithmic-artwork/"/>
+    <updated>2014-09-09T08:27:00-05:00</updated>
+    <id>http://thobbs.github.com/blog/2014/09/09/algorithmic-artwork</id>
+    <content type="html"><![CDATA[<p>Earlier this year I began creating programmatic artwork using <a href="http://matplotlib.org/">matplotlib</a>.
+I was interested in making art using the most powerful tool I knew of: code.</p>
+
+<p>So far the results have been better than I ever expected.  All sorts
+of wild ideas and experiments are possible. The medium could easily
+supply challenges for centuries.</p>
+
+<p><img src="https://www.tylerlhobbs.com/static/img/quilt8-800.png" title="Quilt 8" alt="Quilt 8" /></p>
+
+<p>I&#8217;ve recently switched from matplotlib to <a href="http://processing.org/">Processing</a>.  Matplotlib
+was simply not designed to generate images at the sizes I need.  Processing
+handles the work naturally.  It also has capabilities for 3D and animation,
+both of which I would like to explore at some point.</p>
+
+<p>I&#8217;ve also started using <a href="https://github.com/quil/quil">Quil</a>, a Clojure wrapper for Processing (which
+is Java).  Lisps lend themselves very well to the kinds of crazy code
+that generative artwork can require.</p>
+
+<p><img src="https://www.tylerlhobbs.com/static/img/continuity2-800.png" title="Continuity 2" alt="Continuity 2" /></p>
+
+<p>Finally, I&#8217;ve created a website to <a href="https://www.tylerlhobbs.com/">display my artwork and a few writings on algorithmic artwork</a>.
+If you&#8217;re interested in the work I&#8217;ve shown here, I hope you&#8217;ll check it out.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[You Should Downvote Contrarian Anecdotes]]></title>
